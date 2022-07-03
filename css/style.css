@@ -20,7 +20,7 @@ h1 {
 
 .item {
     background-color: rgb(75, 219, 224);
-    border: 5px solid rgb(178, 12, 23);
+    border: 1px solid rgb(178, 12, 23);
     margin: 0 10px 10px 10px;
 }
 
@@ -30,7 +30,7 @@ h1 {
     float: right;
     color: white;
     background-color: rgb(1, 43, 80);
-    border: 2px solid rgb(45, 20, 184);
+    border: 1px solid rgb(45, 20, 184);
     padding: 5px;
 }
 
@@ -50,7 +50,7 @@ p {
 }
 
 
-@media (min-width : 768px) and (max-width : 991px) {
+@media (min-width : 768px) and (max-width : 991.98px) {
     #chicken{
         width: 46.8%;
         float: left;
